@@ -1,0 +1,6 @@
+name: FirstPlugin
+main: io.github.ramenfighter03.FirstPlugin.FirstPlugin
+version: 1.0
+commands:
+ forums:
+  description: Shows a link to the forums 
